@@ -2,3 +2,6 @@
 - Eggs
 - Xbox
 - Computer
+- Table
+- Chair
+- Laptop
